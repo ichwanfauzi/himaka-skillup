@@ -1,0 +1,13 @@
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# File editor
+.vscode/
+.idea/
+
+# File konfigurasi lokal yang mungkin berisi rahasia
+.env
+.env.*
+
+# Catatan: jangan masukkan password atau kredensial ke repository.
